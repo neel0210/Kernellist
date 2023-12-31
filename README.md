@@ -4,22 +4,26 @@ Welcome to the repository of custom kernels developed for various devices. Below
 
 ## Available Kernels
 
-### Samsung Devices
-1. [Samsung J7Nxt Kernel](link-to-j7nxt-kernel)
-2. [Samsung J7 2016 Kernel](link-to-j7-2016-kernel)
-3. [Samsung J7 Prime Kernel](link-to-j7-prime-kernel)
-4. [Samsung A2 2017 Kernel](link-to-a2-2017-kernel)
-5. [Samsung J6 Kernel](link-to-j6-kernel)
-6. [Samsung A6 Kernel](link-to-a6-kernel)
-7. [Samsung M30s Kernel](link-to-m30s-kernel)
-8. [Samsung A50 Kernel](link-to-a50-kernel)
-9. [Samsung A50s Kernel](link-to-a50s-kernel)
-10. [Samsung Note 10 lite Kernel](link-to-note-10-lite-kernel)
-11. [Samsung A22 5G Kernel](link-to-a22-5g-kernel)
+### Samsung Devices -- Exynos 7870
+1. [Samsung J7Nxt Kernel](https://github.com/KakarotKernel/KKRT_kernel_samsung_7870.git)
+2. [Samsung J7 2016 Kernel](https://github.com/KakarotKernel/KKRT_kernel_samsung_7870.git)
+3. [Samsung J7 Prime Kernel](https://github.com/KakarotKernel/KKRT_kernel_samsung_7870.git)
+4. [Samsung A2 2017 Kernel](https://github.com/KakarotKernel/KKRT_kernel_samsung_7870.git)
+5. [Samsung J6 Kernel](https://github.com/KakarotKernel/KKRT_kernel_samsung_7870.git)
+6. [Samsung A6 Kernel](https://github.com/KakarotKernel/KKRT_kernel_samsung_7870.git)
+
+### Exynos 9610/11
+7. [Samsung M30s Kernel](https://github.com/neel0210/android_kernel_samsung_m51)
+8. [Samsung A50 Kernel](https://github.com/KakarotKernel/android_kernel_samsung_a50-common)
+9. [Samsung A50s Kernel](https://github.com/KakarotKernel/KKRT_kernel_samsung_exynos9610)
+
+### SD/MTK
+10. [Samsung Note 10 lite Kernel | F62](https://github.com/KakarotKernel/android_kernel_samsung_f62)
+11. [Samsung A22 5G Kernel](https://github.com/neel0210/A22)
 
 ### Realme and OnePlus Devices
-12. [Realme 6 Pro Kernel](link-to-realme-6-pro-kernel)
-13. [OnePlus 6 Kernel](link-to-oneplus-6-kernel)
+12. [Realme 6 Pro Kernel](https://github.com/neel0210/android_kernel_realme_sm7125)
+13. [OnePlus 6 Kernel](https://github.com/KakarotKernel/KKRT_kernel_oneplus_sdm845)
 
 ## Usage
 
@@ -30,8 +34,4 @@ Please follow the instructions provided in each kernel repository to build and f
 ## Contributions
 
 Contributions are welcome! If you have improvements or bug fixes, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
